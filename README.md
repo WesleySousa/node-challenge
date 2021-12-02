@@ -2,6 +2,13 @@
 
 The project is a simple challenge to test your skills in building APIs using the Node.js framework.
 
+### Instructions to run this API
+
+- [ ] Install Node.js v14.17.6 or higher
+- [ ] create a .env file based on .env.example in root directory of project.
+- [ ] npm install
+- [ ] npm start
+
 ### Submission
 
 - [ ] Read the description, requirements, and the others instructions
